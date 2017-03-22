@@ -1,0 +1,18 @@
+{
+    "name"             : "dagon/dagon-orocrm-module",
+    "type"             : "drupal-bundle",
+    "description"      : "Dagon OroCRM Integration for Drupal 8",
+    "keywords"         : ["Dagon", "Oro", "OroCRM", "Drupal"],
+    "homepage"         : "http://orocrm.dagon.in",
+    "license"          : "WTFPL",
+    "authors"          : [
+        {
+            "name" : "Nikita Makarov",
+            "email": "mesaverde228@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require"          : {
+        "php"                  : ">=5.6"
+    }
+}
