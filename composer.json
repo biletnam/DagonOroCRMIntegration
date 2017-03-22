@@ -1,6 +1,6 @@
 {
     "name"             : "dagon/dagon-orocrm-module",
-    "type"             : "drupal-bundle",
+    "type"             : "drupal-module",
     "description"      : "Dagon OroCRM Integration for Drupal 8",
     "keywords"         : ["Dagon", "Oro", "OroCRM", "Drupal"],
     "homepage"         : "http://orocrm.dagon.in",
